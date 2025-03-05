@@ -371,11 +371,10 @@ https://colab.research.google.com/drive/1_64Ab7wNsVxvru-EbT8boiOOw1ltn7jk?usp=sh
 
   # MACHINE LEARNING PROJECTS
   https://www.youtube.com/playlist?list=PL_1pt6K-CLoDcWw_c196kZn7aPeLdRDOU
-
   
-- 2  Project 1 Addition of Two Numbers End-To-End Machine Learning Project, https://www.youtube.com/watch?v=qX1NJfrAM8A&list=PL_1pt6K-CLoDcWw_c196kZn7aPeLdRDOU
-- 3 Project 2 Health Insurance Cost Prediction End To End Machine Learning Project | Part 1, https://www.youtube.com/watch?v=eshMzk8L3ic&list=PL_1pt6K-CLoDcWw_c196kZn7aPeLdRDOU&index=2
-- 4 Project - 2 Build Data Machine Learning Web App Using Python & Streamlit | Part 2, https://www.youtube.com/watch?v=Hn_HXPyCvSI&list=PL_1pt6K-CLoDcWw_c196kZn7aPeLdRDOU&index=3
-- 5 Project - 2 Deploy Machine Learning Streamlit Web App on Heroku Cloud | Part 3, https://www.youtube.com/watch?v=7tT0o2koaaA&list=PL_1pt6K-CLoDcWw_c196kZn7aPeLdRDOU&index=4
-- 6 Develop Android Application For Machine Learning Projects | Project - 2, https://www.youtube.com/watch?v=GLGIPnTb018&list=PL_1pt6K-CLoDcWw_c196kZn7aPeLdRDOU&index=5
+-  Project 1 Addition of Two Numbers End-To-End Machine Learning Project, https://www.youtube.com/watch?v=qX1NJfrAM8A&list=PL_1pt6K-CLoDcWw_c196kZn7aPeLdRDOU
+-  Project 2 Health Insurance Cost Prediction End To End Machine Learning Project | Part 1, https://www.youtube.com/watch?v=eshMzk8L3ic&list=PL_1pt6K-CLoDcWw_c196kZn7aPeLdRDOU&index=2
+-  Project - 2 Build Data Machine Learning Web App Using Python & Streamlit | Part 2, https://www.youtube.com/watch?v=Hn_HXPyCvSI&list=PL_1pt6K-CLoDcWw_c196kZn7aPeLdRDOU&index=3
+-  Project - 2 Deploy Machine Learning Streamlit Web App on Heroku Cloud | Part 3, https://www.youtube.com/watch?v=7tT0o2koaaA&list=PL_1pt6K-CLoDcWw_c196kZn7aPeLdRDOU&index=4
+-  Develop Android Application For Machine Learning Projects | Project - 2, https://www.youtube.com/watch?v=GLGIPnTb018&list=PL_1pt6K-CLoDcWw_c196kZn7aPeLdRDOU&index=5
      
