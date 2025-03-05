@@ -3,6 +3,9 @@
 https://sites.google.com/view/vinegarhill-datalabs/introduction-to-machine-learning/machine-learning-and-vinho-verde
 https://colab.research.google.com/drive/1_64Ab7wNsVxvru-EbT8boiOOw1ltn7jk?usp=sharing
 
+https://colab.research.google.com/drive/1Weap3SWDR6AlF9WJbl_KhpYxu07CBrh7?usp=sharing
+
+
 
 
 # Vinho Verde: Унікальне португальське вино
@@ -358,6 +361,119 @@ https://colab.research.google.com/drive/1_64Ab7wNsVxvru-EbT8boiOOw1ltn7jk?usp=sh
 - Підготувати дані для машинного навчання
 
 
+---------------------------------------------------------------------------------
+Project 6. Wine Quality Prediction using Machine Learning with Python | Machine Learning Project, https://www.youtube.com/watch?v=CBxJuwrGrc4
+
+
+
+# Прогнозування якості вина за допомогою машинного навчання
+
+## Вступ до проекту
+
+### Мета дослідження
+- Створення системи оцінки якості вина
+- Використання машинного навчання для аналізу хімічних параметрів
+- Автоматизація процесу визначення якості вина
+
+## Проблематика
+
+### Виклики wine-індустрії
+- Традиційне тестування вина:
+  * Тривале
+  * Витратне
+  * Пов'язане з ризиками для дегустаторів
+
+### Інноваційне рішення
+- Застосування машинного навчання
+- Швидкий аналіз хімічних параметрів
+- Об'єктивна оцінка якості
+
+## Workflow проекту
+
+### Основні етапи
+1. Імпорт залежностей
+2. Збір даних
+3. Аналіз даних
+4. Попередня обробка даних
+5. Розділення на навчальну та тестову вибірки
+6. Навчання моделі
+7. Оцінка результатів
+8. Створення передбачувальної системи
+
+## Технічні інструменти
+
+### Бібліотеки
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+### Алгоритм машинного навчання
+- Випадковий ліс (Random Forest)
+- Ансамблева модель на основі дерев рішень
+
+## Аналіз даних
+
+### Дослідження параметрів
+- Фіксована кислотність
+- Летка кислотність
+- Лимонна кислота
+- Залишковий цукор
+- Хлориди
+- Діоксид сірки
+- Щільність
+- pH
+- Сульфати
+- Вміст алкоголю
+
+### Кореляційний аналіз
+- Виявлення зв'язків між параметрами
+- Визначення впливу на якість вина
+
+## Підготовка даних
+
+### Попередня обробка
+- Перевірка на відсутні значення
+- Бінаризація міток
+- Розподіл на навчальну (80%) та тестову (20%) вибірки
+
+## Навчання моделі
+
+### Випадковий ліс (Random Forest)
+- Ансамблева модель дерев рішень
+- Механізм:
+  * Створення множини дерев рішень
+  * Колективне голосування
+  * Підвищення точності прогнозування
+
+### Результати
+- Точність моделі: 93%
+- Висока ефективність передбачення якості вина
+
+## Передбачувальна система
+
+### Функціональність
+- Прийом хімічних параметрів
+- Передбачення якості вина
+- Бінарна класифікація (добра/погана якість)
+
+## Висновки
+
+### Переваги підходу
+- Швидкість аналізу
+- Об'єктивність оцінки
+- Мінімізація людського фактору
+- Потенціал для масштабування
+
+### Подальші перспективи
+- Вдосконалення моделі
+- Розширення параметрів аналізу
+- Інтеграція в wine-індустрію
+
+-------------------------------------------------------------------
+
+
 
 
 
@@ -367,6 +483,12 @@ https://colab.research.google.com/drive/1_64Ab7wNsVxvru-EbT8boiOOw1ltn7jk?usp=sh
 
 - Red Wine Quality Analysis and Machine Learning Techniques using sklearn python libraries, https://www.youtube.com/watch?v=lHwESP3-Efg
 - PREDICTION OF WINE QUALITY USING MACHINE LEARNING, https://www.youtube.com/watch?v=vGvGakmABVA
+- Mastering Wine Quality Prediction: Implementation of Decision Tree Algorithm, https://www.youtube.com/watch?v=7mQHfZDykY0
+- Red Wine Quality Classification Project | Machine Learning | Python, https://www.youtube.com/watch?v=1tiK-HSGbOA
+- Project 6. Wine Quality Prediction using Machine Learning with Python | Machine Learning Project, https://www.youtube.com/watch?v=CBxJuwrGrc4
+- Red Wine Quality Prediction | Kaggle Dataset | Machine Learning | Logistic | Decision | RandomForest, https://www.youtube.com/watch?v=jzH4MCvnto4
+- 
+  
 
 
   # MACHINE LEARNING PROJECTS
